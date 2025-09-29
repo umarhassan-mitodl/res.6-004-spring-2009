@@ -4,6 +4,8 @@ description: 'This resource contains slides of chapter 11 figures. '
 file: /courses/res-6-004-principles-of-computer-system-design-an-introduction-spring-2009/3b6df7ee69d2064643f19fbfa871dee8_protection_figures.pdf
 file_size: 613895
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Open Textbooks
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

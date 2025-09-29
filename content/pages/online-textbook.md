@@ -142,5 +142,5 @@ Principles of Computer System Design: An Introduction Part II - 826 pages ({{% r
 
 Saltzer, Jerome H., and M. Frans Kaashoek. *Principles of Computer System Design: An Introduction, Part I.*
 
-- {{% resource_link "9bf56916-2a85-48cc-8133-5c85ba12d538" "Print edition" %}} San Francisco, CA: Morgan Kaufman/Elsevier, 2009. ISBN: 9780123749574.
-- {{% resource_link "0a80490c-78a6-452f-9fab-726d67356071" "e-book" %}} Science Direct (Elsevier B.V.)
+- [Print edition](http://www.elsevierdirect.com/product.jsp?isbn=9780123749574) San Francisco, CA: Morgan Kaufman/Elsevier, 2009. ISBN: 9780123749574.
+- [e-book](http://www.sciencedirect.com/science/book/9780123749574) Science Direct (Elsevier B.V.)
