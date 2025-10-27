@@ -4,8 +4,6 @@ description: 'This resource contains errata for part I. '
 file: /courses/res-6-004-principles-of-computer-system-design-an-introduction-spring-2009/61432bbe14fec6d1c1ab12cf9fc4c1ad_errata_part_i.pdf
 file_size: 77884
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Open Textbooks
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

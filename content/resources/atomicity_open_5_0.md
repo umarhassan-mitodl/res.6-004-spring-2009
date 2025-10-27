@@ -5,8 +5,6 @@ description: 'This resource contains information related to atomicity: all-or-no
 file: /courses/res-6-004-principles-of-computer-system-design-an-introduction-spring-2009/de2b7c59e413f58e51eac60acd52efef_atomicity_open_5_0.pdf
 file_size: 705763
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Open Textbooks
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
